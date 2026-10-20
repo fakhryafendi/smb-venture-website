@@ -12,7 +12,7 @@ PUBLISH FREE WITH GITHUB PAGES
 5. Under Build and deployment, select Deploy from a branch.
 6. Select branch main and folder /(root), then Save.
 7. Wait for GitHub Pages to publish. The site address will normally be:
-   https://YOUR-GITHUB-USERNAME.github.io/smb-venture-website/
+   https://smbventure.github.io/smb-venture-website/
 
 NOTES
 - No paid hosting is required for GitHub Pages on a public repository.
